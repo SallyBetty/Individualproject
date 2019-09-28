@@ -2,6 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4fe120ae-0846-489d-a4ad-b49719f8f9dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/file/1.I Have a Dream.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/10.The Four Freedoms.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/11.Energy and the National Goals - A Crisis of Confidence.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/12.We Shall Overcome.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/13.Ann Richards 1988 Democratic National Convention Keynote Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/14.The Ballot or the Bullet.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/15.Chappaquiddick.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/16.Spiro Theodore Agnew Television News Coverage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/17.1984 Vice Presidential Nomination Acceptance Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/18.Richard M. Nixon Checkers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/19.Who Then Will Speak for the Common Good.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/2.Commencement Address at Wellesley College.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/20.Truth and Tolerance in America.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/21.A Time for Choosing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/22.The Perils of Indifference.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/23.Cambodian Incursion Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/24.First Inaugural Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/25.Thayer Award Acceptance Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/26.Renunciation Speech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/27.Farewell Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/28.Ich bin ein Berliner.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/29.Acres of Diamonds.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/3.Republican National Convention Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/30.Let Us Continue.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/31.Message To The Grass Roots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/32.Remarks at the U.S. Ranger Monument on the 40th Anniversary of D-Day.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/33.Resignation Speech.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/34.Sexual Harrassment Hearings.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/35.The Great Silent Majority.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/36.The Great Society.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/37.The Space Shuttle Challenger Tragedy Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/38.Inaugural Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/39.Atoms for Peace.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/4.Eisenhower Atoms for Peace.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/40.Have You No Sense of Decency.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/41.Farewell to Baseball Address.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/42.Remarks at the Brandenburg Gate.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/43.The Truman Doctrine.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/44.Adoption of the Declaration of Human Rights.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/45.A Tale of Two Cities.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/46.A Time to Break Silence.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/47.Television News Coverage.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/48.The Evil Empire.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/49.Remarks at the U.S. Ranger Monument on the 40th Anniversary of D-Day.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/5.The Marshall Plan.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/50.Pearl Harbor Address to the Nation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/6.Address to the Nation Pardoning Richard M. Nixon.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/7.Speech Accepting the Nobel Prize in Literature.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/8.Adoption of the Declaration of Human Rights.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/9.First Fireside Chat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/stopwords.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/file/verb.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Individualproject/Four.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -52,11 +106,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Three.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+            <state relative-caret-position="208">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Four.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/One.java" />
         <option value="$PROJECT_DIR$/src/Two.java" />
         <option value="$PROJECT_DIR$/src/Three.java" />
+        <option value="$PROJECT_DIR$/src/Four.java" />
       </list>
     </option>
   </component>
@@ -150,22 +217,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/file" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEA_workspaces\Individualproject\out\file" />
       <recent name="F:\IDEA_workspaces\Individualproject" />
       <recent name="F:\IDEA_workspaces\Individualproject\file" />
       <recent name="F:\IDEA_workspaces\Individualproject\src\file" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -180,7 +248,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Three">
+  <component name="RunManager" selected="Application.Four">
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Four" />
+      <module name="Individualproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="One" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="One" />
       <module name="Individualproject" />
@@ -211,6 +286,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Four" />
         <item itemvalue="Application.Three" />
         <item itemvalue="Application.Two" />
         <item itemvalue="Application.One" />
@@ -230,7 +306,7 @@
       <updated>1569567020325</updated>
       <workItem from="1569567029732" duration="10250000" />
       <workItem from="1569591500700" duration="538000" />
-      <workItem from="1569648989856" duration="1217000" />
+      <workItem from="1569648989856" duration="3590000" />
     </task>
     <task id="LOCAL-00001" summary="第0，1步">
       <created>1569578345115</created>
@@ -253,11 +329,18 @@
       <option name="project" value="LOCAL" />
       <updated>1569591657363</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="第0，1，2,3步">
+      <created>1569655265451</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1569655265451</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12005000" />
+    <option name="totallyTimeSpent" value="14378000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -270,9 +353,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15359741" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15359741" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -289,7 +371,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49922958" weight="0.63951474" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49922958" weight="0.41247833" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007704" side_tool="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32928944" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -309,7 +391,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第0，1步" />
     <MESSAGE value="第0，1，2步" />
-    <option name="LAST_COMMIT_MESSAGE" value="第0，1，2步" />
+    <MESSAGE value="第0，1，2,3步" />
+    <option name="LAST_COMMIT_MESSAGE" value="第0，1，2,3步" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -337,16 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Zero.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/One.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1898">
@@ -369,8 +442,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Three.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        <state relative-caret-position="208">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/file/stopwords.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/file/verb.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Four.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
